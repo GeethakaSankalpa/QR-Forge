@@ -7,7 +7,7 @@
 
 /*body styles*/
 body {
-    background: #262a2f;    /*black-gray color*/
+    background: #262a2f;    /*dark-gray color*/
 }
 
 /*container styles*/
@@ -22,7 +22,7 @@ body {
     border-radius: 18px;
 }
 
-/*p tag styles*/
+/*Styles for p elements inside the container*/
 .container p{
     font-weight: 600;
     font-size: 15px;
